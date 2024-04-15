@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Sahej5413
-- 👀 I’m interested in Data structure & Algorithms,DBMS,MySQL, C programming, Linux.
+- 👋 Hi, I’m Sahej5413
+- 👀 I’m interested in Data structure & Algorithms,java ,DBMS,MySQL, C programming, Linux.
+- Framework Spring ,spring boot,Angular 14v.
+- Editor VIM , Notepad,Eclipse,Intelli J,vs Code
 - 🌱 I’m currently learning Cryptography.
-- 📫 How to reach me Sahej.bitmesra@gmail and 9771124524
+- 📫 How to reach me Sahej1201@gmail.com and 9771124524
 
 <!---
 Sahej5413/Sahej5413 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
