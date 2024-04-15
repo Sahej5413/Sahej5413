@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data structure & Algorithms,java ,DBMS,MySQL, C programming, Linux.
 - Framework Spring ,spring boot,Angular 14v.
 - Editor VIM , Notepad,Eclipse,Intelli J,vs Code
-- 🌱 I’m currently learning Cryptography.
+- 🌱 I’m currently Working on spring web  projects.
 - 📫 How to reach me Sahej1201@gmail.com and 9771124524
 
 <!---
