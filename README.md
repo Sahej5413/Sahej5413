@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sahej Munda
 - 👀 I’m interested in Data structure & Algorithms,java ,DBMS,MySQL, C programming, Linux, javaScript,HTML,CSS.
 - Framework Spring ,spring boot,Angular 14v.
-- Editor VIM , Notepad,Eclipse,Intelli J,vs Code
+- Editor VIM , Notepad,Eclipse,Intelli J,VS Code
 - 🌱 I’m currently Working on spring web  projects,spring boot microservices.
 - 📫 How to reach me Sahej1201@gmail.com and 9771124524
 
